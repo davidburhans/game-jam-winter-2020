@@ -8,7 +8,7 @@ flags_disable_ambient_light = true
 
 [sub_resource type="CubeMesh" id=3]
 material = SubResource( 2 )
-size = Vector3( 1000, 1, 1000 )
+size = Vector3( 10000, 1, 10000 )
 
 [sub_resource type="BoxShape" id=4]
 extents = Vector3( 1000, 1, 1000 )
